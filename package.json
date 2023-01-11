@@ -1,6 +1,6 @@
 {
   "name": "joker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An example Application that tells jokes",
   "main": "src/index.js.",
   "type": "module",
