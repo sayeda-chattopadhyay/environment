@@ -1,0 +1,22 @@
+{
+  "name": "joker",
+  "version": "1.0.0",
+  "description": "Application that tells jokes",
+  "main": "src/index.js.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayeda-chattopadhyay/joker.git"
+  },
+  "keywords": [
+    "joke"
+  ],
+  "author": "Sayeda Chattopadhyay <sayeda.b@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayeda-chattopadhyay/joker/issues"
+  },
+  "homepage": "https://github.com/sayeda-chattopadhyay/joker#readme"
+}
