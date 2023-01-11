@@ -1,8 +1,9 @@
 {
   "name": "joker",
   "version": "1.0.0",
-  "description": "Application that tells jokes",
+  "description": "An example Application that tells jokes",
   "main": "src/index.js.",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
